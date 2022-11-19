@@ -8,7 +8,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ritam-chakraborty-676b911b9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ritam-chakraborty-676b911b9" height="30" width="40" /></a>
-<a href="https://fb.com/ritam-chakraborty-100081990837945" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ritam-chakraborty-100081990837945" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=100081990837945" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ritam-chakraborty-100081990837945" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/oleum_ritam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="oleum_ritam" height="30" width="40" /></a>
 </p>
 
