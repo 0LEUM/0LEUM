@@ -19,7 +19,7 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=0leum&show_icons=true&theme=dark&locale=en" alt="0leum" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=0leum&theme=dark" alt="0leum" /></p>
+[![An image of @0leum's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/0leum)](https://holopin.io/@0leum)
 
 
 
