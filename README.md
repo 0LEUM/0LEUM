@@ -11,7 +11,7 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ritam-chakraborty-676b911b9" height="30" width="40" />
   </a>
   <a href="mailto:ritam.rit.chakraborty@gmail.com">
-    <img src="https://banner2.cleanpng.com/20180623/ekl/kisspng-gmail-email-attachment-g-suite-google-gmail-logo-5b2dff0242cf14.2611844915297410582737.jpg" alt="gmail" height="30" width="40px"/>
+    <img src="https://p7.hiclipart.com/preview/613/581/218/gmail-google-logo-email-computer-icons-gmail.jpg" alt="gmail" height="30" width="40px"/>
   </a>
   <a href="https://www.facebook.com/profile.php?id=100081990837945" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ritam-chakraborty-100081990837945" height="30" width="40" />
