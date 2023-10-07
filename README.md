@@ -8,13 +8,13 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/ritam-chakraborty-676b911b9" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ritam-chakraborty-676b911b9" height="30"              width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ritam-chakraborty-676b911b9" height="30" width="40" />
   </a>
   <a href="mailto:ritam.rit.chakraborty@gmail.com">
-    <img src="https://user-images.githubusercontent.com/78341798/194531383-ddb2b774-5bb9-491c-b601-4a4a7d9792fb.svg" alt="gmail" height="30" width="40px"/>
+    <img src="https://banner2.cleanpng.com/20180623/ekl/kisspng-gmail-email-attachment-g-suite-google-gmail-logo-5b2dff0242cf14.2611844915297410582737.jpg" alt="gmail" height="30" width="40px"/>
   </a>
   <a href="https://www.facebook.com/profile.php?id=100081990837945" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ritam-chakraborty-100081990837945" height="30"             width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ritam-chakraborty-100081990837945" height="30" width="40" />
   </a>
   <a href="https://www.leetcode.com/oleum_ritam" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="oleum_ritam" height="30" width="40" />
