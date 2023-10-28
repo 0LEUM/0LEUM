@@ -11,7 +11,7 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ritam-chakraborty-676b911b9" height="30" width="40" />
   </a>
   <a href="mailto:ritam.rit.chakraborty@gmail.com">
-    <img align="center" src="https://github.com/0LEUM/0LEUM/assets/104848386/81517636-5d31-48fb-a262-82a837339439" alt="gmail" height="30" width="40px"/>
+    <img align="center" src="https://github.com/0LEUM/0LEUM/assets/104848386/1365a1e0-a029-46ef-ac75-6979c28514f3" alt="gmail" height="30" width="40px"/>
   </a>
   <a href="https://www.facebook.com/profile.php?id=100081990837945" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ritam-chakraborty-100081990837945" height="30" width="40" />
