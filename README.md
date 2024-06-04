@@ -69,6 +69,12 @@
   <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> 
      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40"/>       
   </a> 
+  <a href="https://web.postman.co/" target="_blank" rel="noreferrer"> 
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" width="40" height="40"/>           
+  </a> 
+  <a href="https://docs.npmjs.com/" target="_blank" rel="noreferrer"> 
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" width="60" height="40"/>           
+  </a> 
 </p>
 
 <p>
