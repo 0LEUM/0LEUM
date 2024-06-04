@@ -54,6 +54,24 @@
   <a href="https://expressjs.com/" target="_blank" rel="noreferrer"> 
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" width="40" height="40"/>
   </a> 
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" />  
+  </a> 
+  <a href="https://react.dev/" target="_blank" rel="noreferrer"> 
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+  </a>
+  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> 
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />   
+  </a> 
+  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> 
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />     
+  </a> 
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />     
+  </a> 
+  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> 
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />       
+  </a> 
 </p>
 
 <p>
